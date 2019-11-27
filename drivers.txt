@@ -1,0 +1,4 @@
+Taxi_id|name|phone_no
+TN1|keerthi|98978327
+TN2|MOKKA|748749
+TN4|pru|123243412

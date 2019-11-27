@@ -1,0 +1,11 @@
+source|destination|distance
+a|b|2
+b|d|4
+a|d|2
+a|f|10
+a|h|25
+f|g|6
+g|h|2
+b|k|20
+k|i|1
+i|h|1
